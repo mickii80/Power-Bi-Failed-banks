@@ -13,6 +13,6 @@ Key skills I learned:
 ✔️ Deploy and share your solution
 
 
-Here is and image of how the result of the final dashboard:
+Here is and image of the result of the final dashboard:
 
 ![Failedbanks](https://user-images.githubusercontent.com/120477092/207364867-0a06b45d-c65a-467c-bbc3-7b03feb0a185.png)
